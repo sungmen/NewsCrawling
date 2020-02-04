@@ -5,6 +5,6 @@ Module Xlsx, Node_Schedule, FS, cheerio, axios
 
 <h3>ScreenShot</h3>
 <p float="left">
-  <img src="/ScreenShot/ResultMoney.PNG" width="300" />
-  <img src="/ScreenShot/ResultPolitices.PNG" width="300" /> 
+  <img src="/ScreenShot/RsultMoney.PNG" width="500" /><br>
+  <img src="/ScreenShot/ResultPolitices.PNG" width="500" /> 
 </p>
