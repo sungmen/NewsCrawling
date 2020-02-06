@@ -1,5 +1,6 @@
 # JoongangNewsCrawling
 ---------------------
+[![Run on Repl.it](https://repl.it/badge/github/sungmen/NewsCrawling)](https://repl.it/github/sungmen/NewsCrawling)
 <h2>Language <strong>Node JS</strong></h2><br>
 Module Xlsx, Node_Schedule, FS, cheerio, axios
 <br>
