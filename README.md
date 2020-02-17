@@ -16,4 +16,4 @@ this file 16 rows, 4cols{Title, Url, Sort, Date}
 ----------------------
 run JoongangNewsCrawling02/JoongAngNews.js file <br>
 <strong>result</strong>
-![Alt text]("JoongangNewsCrawling02/Result.PNG")
+<img src="JoongangNewsCrawling02/Result.PNG">
