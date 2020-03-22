@@ -14,6 +14,6 @@ Execute node exe file
 if run main.js make 5 excel File (Money.xlsx, politics, Society, Sports, World)<br>
 this file 16 rows, 4cols{Title, Url, Sort, Date}
 ----------------------
-cd /src
-npm install
+cd /src <br>
+npm install <br>
 node /Main.js file <br>
