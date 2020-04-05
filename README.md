@@ -1,11 +1,4 @@
 # JoongangNewsCrawling
-.
-├── LICENSE
-├── README.md
-└── src
-    ├── Main.js
-    ├── package.json
-    └── package-lock.json
 ---------------------
 [![Run on Repl.it](https://repl.it/badge/github/sungmen/NewsCrawling)](https://repl.it/github/sungmen/NewsCrawling)
 <h2>Language <strong>Node JS</strong></h2><br>
@@ -24,3 +17,12 @@ this file 16 rows, 4cols{Title, Url, Sort, Date}
 cd /src <br>
 npm install <br>
 node /Main.js file <br>
+
+tree
+.<br>
+├── LICENSE<br>
+├── README.md<br>
+└── src<br>
+    ├── Main.js<br>
+    ├── package.json<br>
+    └── package-lock.json<br>
