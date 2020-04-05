@@ -1,4 +1,11 @@
 # JoongangNewsCrawling
+.
+├── LICENSE
+├── README.md
+└── src
+    ├── Main.js
+    ├── package.json
+    └── package-lock.json
 ---------------------
 [![Run on Repl.it](https://repl.it/badge/github/sungmen/NewsCrawling)](https://repl.it/github/sungmen/NewsCrawling)
 <h2>Language <strong>Node JS</strong></h2><br>
